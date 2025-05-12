@@ -1,0 +1,63 @@
+# Базовые библиотеки
+numpy
+scipy
+pandas
+
+# Компьютерное зрение
+opencv-python==4.8.0.76
+opencv-python-headless==4.8.0.76
+scikit-image==0.21.0
+Pillow==10.0.1
+imageio==2.31.3
+imgaug==0.4.0
+tifffile
+
+# Визуализация
+matplotlib==3.7.5
+seaborn==0.12.2
+
+# Машинное обучение
+scikit-learn==1.3.0
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+torchmetrics==1.1.2
+
+# Data augmentation (опционально)
+albumentations==1.3.1
+qudida==0.0.4
+
+# Поддержка Lightning (если используешь)
+pytorch-lightning==2.0.9
+lightning-utilities==0.9.0
+
+# Утилиты и веб-запросы
+requests==2.31.0
+aiohttp==3.8.5
+yarl==1.9.2
+async-timeout==4.0.3
+multidict==6.0.4
+
+# Конфигурации и вспомогательные
+python-dateutil==2.8.2
+typing_extensions==4.8.0
+urllib3==2.0.4
+certifi==2023.7.22
+charset-normalizer==3.2.0
+idna==3.4
+packaging==23.1
+PyYAML==6.0.1
+
+# Прогресс-бары и логи
+tqdm==4.66.1
+proglog==0.1.10
+
+# Для matplotlib и графиков
+cycler==0.11.0
+fonttools==4.42.1
+kiwisolver==1.4.5
+contourpy==1.1.1
+
+# Безопасность и текст
+MarkupSafe==2.1.3
+Jinja2==3.1.2
